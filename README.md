@@ -1,6 +1,6 @@
 # Attendance System
 
-This simple Python project demonstrates the usage of the `face_recognition` library to create a basic attendance system. The program utilizes face detection with the Haarcascade classifier and face recognition to identify known faces from input photos.
+This Simple Python project demonstrates the usage of the `face_recognition` library to create a basic attendance system. The program utilizes face detection with the Haarcascade classifier and face recognition to identify known faces from input photos.
 
 ## Features:
 - **Face Detection:** Utilizes Haarcascade classifier for detecting faces in a live video.
